@@ -1,2 +1,2 @@
 # Python-Fundamentals
-A DIVE INTO THE BASICS OF PYTHON
+Exploring Python from its basics to using libraries for analyzing datasets.
